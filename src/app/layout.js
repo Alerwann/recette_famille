@@ -2,6 +2,7 @@ import { Geist, Geist_Mono, Rouge_Script } from "next/font/google";
 import "./globals.css";
 import Header from "./component/header";
 import VerifAcces from "./component/acces";
+import { Suspense } from "react";
 
 
 const geistSans = Geist({
@@ -36,10 +37,12 @@ export default function RootLayout({ children }) {
     <html lang="fr">
       <body
         className={`${rougeScript.variable} ${geistMono.variable} ${geistSans.variable}`}>
+        <Suspense fallback={<div>Chargement...</div>}>
         <VerifAcces>
           <Header />
           {children}
         </VerifAcces>
+        </Suspense>
       </body>
     </html>
   );
