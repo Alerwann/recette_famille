@@ -1,24 +1,28 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { useSearchParams } from "next/navigation";
+import { useSearchParams, useRouter, usePathname } from "next/navigation";
 import FormulaireMdp from "./formulaireMdp";
 
 export default function VerifAcces({ children }) {
   const [autorise, setAutorise] = useState(false);
   const searchParams = useSearchParams();
-
+  const router = useRouter();
+  const pathname = usePathname();
 
   const MDPENTRE = process.env.NEXT_PUBLIC_MDPENTRE;
-  
+
   useEffect(() => {
     const codeUrl = searchParams.get("pass");
     const codeStocke = localStorage.getItem("site_access");
 
-      if (codeUrl === MDPENTRE || codeStocke === MDPENTRE) {
-          console.log("acces autorisé");
+    if (codeUrl === MDPENTRE || codeStocke === MDPENTRE) {
+      console.log("acces autorisé");
       setAutorise(true);
       localStorage.setItem("site_access", MDPENTRE);
+      if (codeUrl) {
+        router.replace(pathname);
+      }
     }
   }, [searchParams]);
 
