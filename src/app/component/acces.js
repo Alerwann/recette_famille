@@ -2,7 +2,6 @@
 
 import { useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
-import MDPENTRE from "../cle";
 import FormulaireMdp from "./formulaireMdp";
 
 export default function VerifAcces({ children }) {
@@ -10,7 +9,8 @@ export default function VerifAcces({ children }) {
   const searchParams = useSearchParams();
 
 
-
+  const MDPENTRE = process.env.NEXT_PUBLIC_MDPENTRE;
+  
   useEffect(() => {
     const codeUrl = searchParams.get("pass");
     const codeStocke = localStorage.getItem("site_access");

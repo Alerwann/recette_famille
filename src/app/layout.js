@@ -21,6 +21,10 @@ const rougeScript = Rouge_Script({
 });
 
 export const metadata = {
+  robots: {
+    index: false,
+    follow: false,
+  },
   title: "Mes recettes",
   description: "Liste de mes recettes favorite",
 };
