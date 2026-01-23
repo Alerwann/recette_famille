@@ -1,7 +1,6 @@
 "use client";
 import { useState } from "react";
 
-
 const MDPENTRE = process.env.NEXT_PUBLIC_MDPENTRE;
 
 export default function FormulaireMdp({ onSucces }) {
