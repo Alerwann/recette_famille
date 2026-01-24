@@ -6,7 +6,7 @@ export default function Navigation() {
     <nav>
       <ul>
         <li>
-          <Link href="/accueil" className="navLink accueil">
+          <Link href="/" className="navLink accueil">
             Accueil
           </Link>
         </li>

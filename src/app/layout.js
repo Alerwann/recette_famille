@@ -36,12 +36,12 @@ export default function RootLayout({ children }) {
   return (
     <html lang="fr">
       <body
-        className={`${rougeScript.variable} ${geistMono.variable} ${geistSans.variable}`}>
+        className={`${rougeScript.variable} ${geistMono.variable} ${geistSans.variable} antialiased`}>
         <Suspense fallback={<div>Chargement...</div>}>
-        <VerifAcces>
-          <Header />
-          {children}
-        </VerifAcces>
+          <VerifAcces>
+            <Header />
+            {children}
+          </VerifAcces>
         </Suspense>
       </body>
     </html>
