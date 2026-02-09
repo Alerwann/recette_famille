@@ -1,7 +1,7 @@
 import { Geist, Geist_Mono, Rouge_Script } from "next/font/google";
 import "./globals.css";
-import Header from "./component/header";
-import VerifAcces from "./component/acces";
+import Header from "../component/header/header";
+import VerifAcces from "../component/acces";
 import { Suspense } from "react";
 
 
