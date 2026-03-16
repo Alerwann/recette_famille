@@ -10,8 +10,8 @@ export default function VerifAcces({ children }) {
   const router = useRouter();
   const pathname = usePathname();
 
-  // const MDPENTRE = process.env.NEXT_PUBLIC_MDPENTRE;
-  const MDPENTRE ='240252GY';
+  const MDPENTRE = process.env.NEXT_PUBLIC_MDPENTRE;
+  // const MDPENTRE ='240252GY';
 
   useEffect(() => {
     const codeUrl = searchParams.get("pass");
