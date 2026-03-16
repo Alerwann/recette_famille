@@ -1,7 +1,5 @@
 import Image from "next/image";
 import fondMain from "../../public/fond_dessert.jpg";
-
-
 export default function Home() {
   return (
     <div className="h-lvh">

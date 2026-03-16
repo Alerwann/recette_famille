@@ -1,7 +1,9 @@
 "use client";
 import { useState } from "react";
 
-const MDPENTRE = process.env.NEXT_PUBLIC_MDPENTRE;
+// const MDPENTRE = process.env.NEXT_PUBLIC_MDPENTRE;
+  const MDPENTRE = "240252GY";
+
 
 export default function FormulaireMdp({ onSucces }) {
   const [saisie, setSaisie] = useState("");

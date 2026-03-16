@@ -10,7 +10,8 @@ export default function VerifAcces({ children }) {
   const router = useRouter();
   const pathname = usePathname();
 
-  const MDPENTRE = process.env.NEXT_PUBLIC_MDPENTRE;
+  // const MDPENTRE = process.env.NEXT_PUBLIC_MDPENTRE;
+  const MDPENTRE ='240252GY';
 
   useEffect(() => {
     const codeUrl = searchParams.get("pass");
@@ -18,6 +19,7 @@ export default function VerifAcces({ children }) {
 
     if (codeUrl === MDPENTRE || codeStocke === MDPENTRE) {
       console.log("acces autorisé");
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setAutorise(true);
       localStorage.setItem("site_access", MDPENTRE);
       if (codeUrl) {
