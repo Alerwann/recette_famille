@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import Image from "next/image";
 import fondMain from "../../public/fond_dessert.jpg";
 export default function Home() {
@@ -9,6 +10,7 @@ export default function Home() {
         className="h-svh -z-1  opacity-5 absolute "
       />
       <div className="h-4/5 px-10 md:px-0 flex flex-col items-center justify-center gap-4  ">
+        <h2>tentative</h2>
         <div className="text-center font-bold italic text-3xl md:text-4xl lg:text-5xl">
           <h2>Bienvenue dans mon site de recettes</h2>
         </div>

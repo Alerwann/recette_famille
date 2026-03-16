@@ -1,9 +1,8 @@
 import { Geist, Geist_Mono, Rouge_Script } from "next/font/google";
 import "./globals.css";
-import Header from "../component/header";
-import VerifAcces from "../component/acces";
+import Header from "../component/header/header";
+import VerifAcces from "../component/accueil/acces";
 import { Suspense } from "react";
-
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -30,13 +29,12 @@ export const metadata = {
   description: "Liste de mes recettes favorite",
 };
 
-
-
 export default function RootLayout({ children }) {
   return (
     <html lang="fr">
       <body
-        className={`${rougeScript.variable} ${geistMono.variable} ${geistSans.variable} antialiased`}>
+        className={`${rougeScript.variable} ${geistMono.variable} ${geistSans.variable} antialiased`}
+      >
         <Suspense fallback={<div>Chargement...</div>}>
           <VerifAcces>
             <Header />
