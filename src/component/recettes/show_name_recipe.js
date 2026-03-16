@@ -6,7 +6,7 @@ export default function ShowNameRecipe({ typeRecipe }) {
   console.log(typeRecipe);
 
   return (
-    <div className="mb-5 grid grid-cols-1 md:grid-cols-3 gap-5 ">
+    <div className="m-5 grid grid-cols-1 md:grid-cols-3 gap-5 ">
       {recipes
         .filter((item) => item.type == typeRecipe)
         .map((item, index) => (
