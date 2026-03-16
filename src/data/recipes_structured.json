@@ -1,10 +1,14 @@
 [
   {
     "titre": "Crème Caramel",
-    "type":"dessert",
+    "type": "dessert",
     "ingredients": [
       { "quantité": 1, "unité": "l", "ingrédient": "lait" },
-      { "quantité": 1, "unité": "", "ingrédient": "gousse de vanille de Madagascar" },
+      {
+        "quantité": 1,
+        "unité": "",
+        "ingrédient": "gousse de vanille de Madagascar"
+      },
       { "quantité": 6, "unité": "", "ingrédient": "œufs" },
       { "quantité": 240, "unité": "g", "ingrédient": "sucre" },
       { "quantité": 100, "unité": "g", "ingrédient": "sucre pour le caramel" },
@@ -19,14 +23,19 @@
       "Verser la préparation dans le moule caramélisé.",
       "Cuire au bain-marie à 180° pendant 45mn environ.",
       "Retourner sur un plat creux au moment de servir."
-    ]
+    ],
+    "image": "/assets/flan-caramel.webp"
   },
   {
     "titre": "Endives au Jambon",
-    "type" :"legume",
+    "type": "legume",
     "ingredients": [
       { "quantité": 2, "unité": "", "ingrédient": "grosses endives" },
-      { "quantité": 1, "unité": "cuillère à café", "ingrédient": "fond de veau en poudre" },
+      {
+        "quantité": 1,
+        "unité": "cuillère à café",
+        "ingrédient": "fond de veau en poudre"
+      },
       { "quantité": 8, "unité": "cl", "ingrédient": "vin blanc" },
       { "quantité": 4, "unité": "tranches", "ingrédient": "jambon" },
       { "quantité": 2, "unité": "cuillères à soupe", "ingrédient": "crème" },
@@ -41,11 +50,12 @@
       "Ajouter ce mélange aux endives et au jambon.",
       "Laisser mijoter 5 mn.",
       "Ajouter la crème et laisser encore mijoter 2mn."
-    ]
+    ],
+    "image": "/assets/endive-au-jambon.webp"
   },
   {
     "titre": "Filet Mignon de Veau (Basse Température)",
-    "type":"viande",
+    "type": "viande",
     "ingredients": [
       { "quantité": 900, "unité": "g", "ingrédient": "filet mignon de veau" },
       { "quantité": 2, "unité": "cuillères à soupe", "ingrédient": "beurre" },
@@ -63,11 +73,12 @@
       "Pour la sauce : déglacer le récipient de cuisson avec l'eau.",
       "Ajouter les graines de vanille et la crème.",
       "Laisser bouillir 2 à 3 mn, assaisonner et servir."
-    ]
+    ],
+    "image": "/assets/filet-mignon-bt.webp"
   },
   {
     "titre": "Pain d'Épices",
-    "type" : "dessert",
+    "type": "dessert",
     "ingredients": [
       { "quantité": 225, "unité": "g", "ingrédient": "miel" },
       { "quantité": 75, "unité": "g", "ingrédient": "sucre" },
@@ -75,8 +86,16 @@
       { "quantité": 300, "unité": "g", "ingrédient": "farine" },
       { "quantité": 1, "unité": "sachet", "ingrédient": "levure" },
       { "quantité": 10, "unité": "cl", "ingrédient": "lait" },
-      { "quantité": 1, "unité": "cuillère à café", "ingrédient": "anis, gingembre, cannelle" },
-      { "quantité": 3, "unité": "capsules", "ingrédient": "cardamome (graines)" },
+      {
+        "quantité": 1,
+        "unité": "cuillère à café",
+        "ingrédient": "anis, gingembre, cannelle"
+      },
+      {
+        "quantité": 3,
+        "unité": "capsules",
+        "ingrédient": "cardamome (graines)"
+      },
       { "quantité": 40, "unité": "g", "ingrédient": "beurre" }
     ],
     "instructions": [
@@ -86,16 +105,25 @@
       "Ajouter l'œuf battu, puis la farine avec la levure.",
       "Verser dans un moule à cake beurré.",
       "Cuire au four à 145° pendant 75 minutes."
-    ]
+    ],
+    "image": "/assets/pain-epice.webp"
   },
   {
     "titre": "Filet Mignon Salé Séché",
-    "type":"viande",
+    "type": "viande",
     "ingredients": [
       { "quantité": 1, "unité": "", "ingrédient": "filet mignon de porc" },
       { "quantité": 900, "unité": "g", "ingrédient": "sel de Guérande" },
-      { "quantité": 2, "unité": "cuillères à soupe", "ingrédient": "marjolaine séchée" },
-      { "quantité": 1, "unité": "cuillère à café", "ingrédient": "poivre en grains" },
+      {
+        "quantité": 2,
+        "unité": "cuillères à soupe",
+        "ingrédient": "marjolaine séchée"
+      },
+      {
+        "quantité": 1,
+        "unité": "cuillère à café",
+        "ingrédient": "poivre en grains"
+      },
       { "quantité": 0, "unité": "", "ingrédient": "sucre en poudre" }
     ],
     "instructions": [
@@ -105,11 +133,12 @@
       "Rincer la viande à l'eau froide et la sécher soigneusement.",
       "Écraser le poivre et la marjolaine et en envelopper la viande.",
       "Placer dans un torchon serré au réfrigérateur pendant 15 à 21 jours."
-    ]
+    ],
+    "image": "/assets/filet-mignon-seche.webp"
   },
   {
     "titre": "Tuiles aux Amandes",
-    "type":"mignardise",
+    "type": "mignardise",
     "ingredients": [
       { "quantité": 80, "unité": "g", "ingrédient": "sucre en poudre" },
       { "quantité": 2, "unité": "", "ingrédient": "blancs d'œufs" },
@@ -124,11 +153,12 @@
       "Déposer des petits tas espacés sur une plaque beurrée.",
       "Enfourner environ 5 minutes.",
       "Mouler les tuiles chaudes sur un objet cylindrique pour les incurver."
-    ]
+    ],
+    "image": "/assets/tuiles.webp"
   },
   {
     "titre": "Terrine de Campagne",
-    "type":"entree",
+    "type": "entree",
     "ingredients": [
       { "quantité": 500, "unité": "g", "ingrédient": "foie de porc" },
       { "quantité": 500, "unité": "g", "ingrédient": "échine de porc" },
@@ -148,16 +178,21 @@
       "Tapisser la terrine de coiffe (ou couenne), tasser le hachis.",
       "Cuire au bain-marie à 240° pendant 1h30.",
       "Laisser refroidir et mettre au frais 24h."
-    ]
+    ],
+    "image": "/assets/terrine.webp"
   },
   {
     "titre": "Tot-Fait",
-    "type":"dessert",
+    "type": "dessert",
     "ingredients": [
       { "quantité": 25, "unité": "cl", "ingrédient": "lait" },
       { "quantité": 3, "unité": "", "ingrédient": "œufs" },
       { "quantité": 75, "unité": "g", "ingrédient": "farine" },
-      { "quantité": 1, "unité": "cuillère à soupe", "ingrédient": "fleur d'oranger ou sucre vanillé" },
+      {
+        "quantité": 1,
+        "unité": "cuillère à soupe",
+        "ingrédient": "fleur d'oranger ou sucre vanillé"
+      },
       { "quantité": 30, "unité": "g", "ingrédient": "sucre" },
       { "quantité": 1, "unité": "pincée", "ingrédient": "sel" }
     ],
@@ -167,20 +202,29 @@
       "Ajouter le sel, le sucre, le lait et la fleur d'oranger.",
       "Verser dans un moule beurré.",
       "Cuire au four chaud pendant 30 minutes."
-    ]
+    ],
+    "image": "/assets/tot-fait.webp"
   },
   {
-    "titre": "Mousse de Truite « Père Marie »",
-    "type":"poisson",
+    "titre": "Mousse de Truite « Pour Marie »",
+    "type": "poisson",
     "ingredients": [
       { "quantité": 500, "unité": "g", "ingrédient": "chair de truite" },
       { "quantité": 3, "unité": "", "ingrédient": "jaunes d'œufs" },
       { "quantité": 1, "unité": "", "ingrédient": "œuf entier" },
       { "quantité": 200, "unité": "g", "ingrédient": "beurre" },
       { "quantité": 0.5, "unité": "l", "ingrédient": "crème épaisse" },
-      { "quantité": 3, "unité": "cuillères à soupe", "ingrédient": "beurre et farine (sauce)" },
+      {
+        "quantité": 3,
+        "unité": "cuillères à soupe",
+        "ingrédient": "beurre et farine (sauce)"
+      },
       { "quantité": 2, "unité": "dl", "ingrédient": "vin blanc sec" },
-      { "quantité": 4, "unité": "cuillères à soupe", "ingrédient": "crème (sauce)" }
+      {
+        "quantité": 4,
+        "unité": "cuillères à soupe",
+        "ingrédient": "crème (sauce)"
+      }
     ],
     "instructions": [
       "Passer la chair de poisson au mixer.",
@@ -188,11 +232,12 @@
       "Sur des glaçons, incorporer la crème fraîche.",
       "Cuire au bain-marie à 190° pendant 30mn.",
       "Servir avec une sauce à base de roux, fumet de poisson réduit et crème."
-    ]
+    ],
+    "image": "/assets/mousse-truite.webp"
   },
   {
     "titre": "Soupe d'Asperges",
-    "type":"entree",
+    "type": "entree",
     "ingredients": [
       { "quantité": 0.5, "unité": "livre", "ingrédient": "asperges épluchées" },
       { "quantité": 1, "unité": "cube", "ingrédient": "bouillon de volaille" },
@@ -205,17 +250,22 @@
       "Cuire dans l'eau avec le bouillon pendant 20mn.",
       "Ajouter la crème et mixer.",
       "Passer au chinois avant de servir."
-    ]
+    ],
+    "image": "/assets/soupe-asperge.webp"
   },
   {
     "titre": "Nougat Glacé",
-    "type":"dessert",
+    "type": "dessert",
     "ingredients": [
       { "quantité": 150, "unité": "g", "ingrédient": "mélange de fruits secs" },
       { "quantité": 105, "unité": "g", "ingrédient": "sucre en poudre" },
       { "quantité": 3, "unité": "", "ingrédient": "œufs" },
       { "quantité": 30, "unité": "cl", "ingrédient": "crème liquide" },
-      { "quantité": 3, "unité": "cuillères à soupe", "ingrédient": "miel liquide" }
+      {
+        "quantité": 3,
+        "unité": "cuillères à soupe",
+        "ingrédient": "miel liquide"
+      }
     ],
     "instructions": [
       "Torréfier et caraméliser les fruits secs avec 60g de sucre.",
@@ -223,11 +273,12 @@
       "Monter les blancs, ajouter le miel chaud et incorporer aux jaunes.",
       "Ajouter la chantilly et les fruits secs.",
       "Placer au congélateur 12h."
-    ]
+    ],
+    "image": "/assets/nougat.webp"
   },
   {
     "titre": "Crème Brulée à la Lavande",
-    "type":"dessert",
+    "type": "dessert",
     "ingredients": [
       { "quantité": 8, "unité": "têtes", "ingrédient": "lavandes" },
       { "quantité": 200, "unité": "g", "ingrédient": "sucre en poudre" },
@@ -245,12 +296,16 @@
   },
   {
     "titre": "Courgettes aux Lardons",
-    "type":"legume",
+    "type": "legume",
     "ingredients": [
       { "quantité": 3, "unité": "", "ingrédient": "courgettes moyennes" },
       { "quantité": 1, "unité": "", "ingrédient": "oignon" },
       { "quantité": 60, "unité": "g", "ingrédient": "lardons fumés" },
-      { "quantité": 2, "unité": "cuillères à soupe", "ingrédient": "huile d'olive" },
+      {
+        "quantité": 2,
+        "unité": "cuillères à soupe",
+        "ingrédient": "huile d'olive"
+      },
       { "quantité": 1, "unité": "gousse", "ingrédient": "ail" }
     ],
     "instructions": [
@@ -261,7 +316,7 @@
   },
   {
     "titre": "Verrine de Gambas à la Crème d'Avocat",
-    "type":"entree",
+    "type": "entree",
     "ingredients": [
       { "quantité": 10, "unité": "", "ingrédient": "gambas cuites" },
       { "quantité": 10, "unité": "g", "ingrédient": "vinaigre balsamique" },
@@ -279,7 +334,7 @@
   },
   {
     "titre": "Beurre d'Escargot",
-    "type":"entree",
+    "type": "entree",
     "ingredients": [
       { "quantité": 157, "unité": "g", "ingrédient": "beurre" },
       { "quantité": 25, "unité": "g", "ingrédient": "ail" },
@@ -296,12 +351,16 @@
   },
   {
     "titre": "Clafoutis aux Pêches de Vigne",
-    "type":"dessert",
+    "type": "dessert",
     "ingredients": [
       { "quantité": 6, "unité": "", "ingrédient": "pêches de vigne" },
       { "quantité": 100, "unité": "g", "ingrédient": "crème fraîche épaisse" },
       { "quantité": 100, "unité": "g", "ingrédient": "sucre" },
-      { "quantité": 1, "unité": "cuillère à café", "ingrédient": "extrait de vanille" },
+      {
+        "quantité": 1,
+        "unité": "cuillère à café",
+        "ingrédient": "extrait de vanille"
+      },
       { "quantité": 10, "unité": "cl", "ingrédient": "lait" },
       { "quantité": 60, "unité": "g", "ingrédient": "farine" },
       { "quantité": 4, "unité": "", "ingrédient": "œufs" },
@@ -317,12 +376,16 @@
   },
   {
     "titre": "Clafoutis aux Coings",
-    "type":"dessert",
+    "type": "dessert",
     "ingredients": [
       { "quantité": 3, "unité": "", "ingrédient": "coings" },
       { "quantité": 280, "unité": "g", "ingrédient": "sucre (200g + 80g)" },
       { "quantité": 50, "unité": "cl", "ingrédient": "eau" },
-      { "quantité": 3, "unité": "unités", "ingrédient": "gousses de cardamome" },
+      {
+        "quantité": 3,
+        "unité": "unités",
+        "ingrédient": "gousses de cardamome"
+      },
       { "quantité": 0.5, "unité": "gousse", "ingrédient": "vanille" },
       { "quantité": 30, "unité": "g", "ingrédient": "farine" },
       { "quantité": 3, "unité": "", "ingrédient": "œufs" },
@@ -338,7 +401,7 @@
   },
   {
     "titre": "Gâteau Moelleux au Chocolat",
-    "type":"dessert",
+    "type": "dessert",
     "ingredients": [
       { "quantité": 3, "unité": "", "ingrédient": "œufs" },
       { "quantité": 150, "unité": "g", "ingrédient": "sucre" },
@@ -356,13 +419,17 @@
   },
   {
     "titre": "Mchaouek",
-    "type":"mignardise",
+    "type": "mignardise",
     "ingredients": [
       { "quantité": 25, "unité": "cl", "ingrédient": "sucre" },
       { "quantité": 75, "unité": "cl", "ingrédient": "noix de coco râpée" },
       { "quantité": 4, "unité": "", "ingrédient": "blancs d'œufs" },
       { "quantité": 250, "unité": "ml", "ingrédient": "eau" },
-      { "quantité": 1, "unité": "cuillère à soupe", "ingrédient": "eau de fleur d'oranger" }
+      {
+        "quantité": 1,
+        "unité": "cuillère à soupe",
+        "ingrédient": "eau de fleur d'oranger"
+      }
     ],
     "instructions": [
       "Battre les blancs en neige.",
@@ -373,7 +440,7 @@
   },
   {
     "titre": "Meringuettes",
-    "type":"mignardise",
+    "type": "mignardise",
     "ingredients": [
       { "quantité": 125, "unité": "g", "ingrédient": "sucre glace" },
       { "quantité": 125, "unité": "g", "ingrédient": "sucre en poudre" },
@@ -387,13 +454,17 @@
   },
   {
     "titre": "Minestrone Glacé Concombre Melon",
-    "type":"entree",
+    "type": "entree",
     "ingredients": [
       { "quantité": 0.5, "unité": "", "ingrédient": "concombre bio" },
       { "quantité": 0.5, "unité": "", "ingrédient": "melon" },
       { "quantité": 0.5, "unité": "", "ingrédient": "jus de citron" },
       { "quantité": 5, "unité": "feuilles", "ingrédient": "menthe" },
-      { "quantité": 2, "unité": "cuillères à soupe", "ingrédient": "huile d'olive" }
+      {
+        "quantité": 2,
+        "unité": "cuillères à soupe",
+        "ingrédient": "huile d'olive"
+      }
     ],
     "instructions": [
       "Mixer les chairs avec menthe, huile et citron.",
@@ -403,7 +474,7 @@
   },
   {
     "titre": "Pintade aux Morilles",
-    "type":"viande",
+    "type": "viande",
     "ingredients": [
       { "quantité": 1, "unité": "", "ingrédient": "pintade" },
       { "quantité": 3, "unité": "", "ingrédient": "échalotes" },
@@ -420,7 +491,7 @@
   },
   {
     "titre": "Quenelles de Veau à la façon de l' Olga",
-    "type":"viande",
+    "type": "viande",
     "ingredients": [
       { "quantité": 250, "unité": "g", "ingrédient": "maigre de veau" },
       { "quantité": 125, "unité": "g", "ingrédient": "gras de veau" },
@@ -435,7 +506,7 @@
   },
   {
     "titre": "Beurre Citronné",
-    "type":"poisson",
+    "type": "poisson",
     "ingredients": [
       { "quantité": 50, "unité": "g", "ingrédient": "beurre" },
       { "quantité": 1, "unité": "", "ingrédient": "jus de citron" }
@@ -447,12 +518,16 @@
   },
   {
     "titre": "Soupe Tiède d'Oranges Sanguines",
-    "type":"dessert",
+    "type": "dessert",
     "ingredients": [
       { "quantité": 100, "unité": "ml", "ingrédient": "sucre" },
       { "quantité": 250, "unité": "ml", "ingrédient": "eau" },
       { "quantité": 25, "unité": "ml", "ingrédient": "Grand Marnier" },
-      { "quantité": 1, "unité": "cuillère à café", "ingrédient": "graines de sésame et pavot" }
+      {
+        "quantité": 1,
+        "unité": "cuillère à café",
+        "ingrédient": "graines de sésame et pavot"
+      }
     ],
     "instructions": [
       "Faire un sirop avec eau, sucre et épices.",
@@ -462,10 +537,14 @@
   },
   {
     "titre": "Foie Gras au Micro-onde",
-    "type":"entree",
+    "type": "entree",
     "ingredients": [
       { "quantité": 500, "unité": "g", "ingrédient": "foie gras" },
-      { "quantité": 2, "unité": "cuillères à soupe", "ingrédient": "Porto ou Monbazillac" },
+      {
+        "quantité": 2,
+        "unité": "cuillères à soupe",
+        "ingrédient": "Porto ou Monbazillac"
+      },
       { "quantité": 3, "unité": "g", "ingrédient": "sel" }
     ],
     "instructions": [
@@ -476,7 +555,7 @@
   },
   {
     "titre": "Canapé de Boudin Blanc",
-    "type":"entree",
+    "type": "entree",
     "ingredients": [
       { "quantité": 4, "unité": "", "ingrédient": "boudins blancs" },
       { "quantité": 6, "unité": "tranches", "ingrédient": "bacon" },
@@ -490,7 +569,7 @@
   },
   {
     "titre": "Frites au Four",
-    "type":"legume",
+    "type": "legume",
     "ingredients": [
       { "quantité": 1, "unité": "kg", "ingrédient": "pomme de terre" },
       { "quantité": 1, "unité": "cuillère à soupe", "ingrédient": "huile" },
@@ -504,9 +583,13 @@
   },
   {
     "titre": "Œufs au Vin",
-    "type":"entree",
+    "type": "entree",
     "ingredients": [
-      { "quantité": 1, "unité": "bouteille", "ingrédient": "vin rouge de Bourgogne" },
+      {
+        "quantité": 1,
+        "unité": "bouteille",
+        "ingrédient": "vin rouge de Bourgogne"
+      },
       { "quantité": 8, "unité": "", "ingrédient": "œufs" },
       { "quantité": 125, "unité": "g", "ingrédient": "lardons" },
       { "quantité": 12, "unité": "", "ingrédient": "oignons grelot" }
@@ -519,7 +602,7 @@
   },
   {
     "titre": "Petits Croissants au Saumon",
-    "type":"entree",
+    "type": "entree",
     "ingredients": [
       { "quantité": 1, "unité": "pâte", "ingrédient": "feuilletée" },
       { "quantité": 200, "unité": "g", "ingrédient": "saumon" },
@@ -533,13 +616,17 @@
   },
   {
     "titre": "Riz Cantonais",
-    "type":"legume",
+    "type": "legume",
     "ingredients": [
       { "quantité": 300, "unité": "g", "ingrédient": "riz thaï cuit" },
       { "quantité": 2, "unité": "tranches", "ingrédient": "jambon" },
       { "quantité": 8, "unité": "", "ingrédient": "grosses crevettes" },
       { "quantité": 3, "unité": "", "ingrédient": "œufs" },
-      { "quantité": 3, "unité": "cuillères à soupe", "ingrédient": "sauce soja" }
+      {
+        "quantité": 3,
+        "unité": "cuillères à soupe",
+        "ingrédient": "sauce soja"
+      }
     ],
     "instructions": [
       "Faire revenir oignon et ail.",
@@ -550,10 +637,14 @@
   },
   {
     "titre": "Pavé de Saumon Laqué",
-    "type":"poisson",
+    "type": "poisson",
     "ingredients": [
       { "quantité": 4, "unité": "pavés", "ingrédient": "saumon" },
-      { "quantité": 4, "unité": "cuillères à soupe", "ingrédient": "sauce soja" }
+      {
+        "quantité": 4,
+        "unité": "cuillères à soupe",
+        "ingrédient": "sauce soja"
+      }
     ],
     "instructions": [
       "Cuire le saumon côté peau à feu très doux pendant 25mn.",
@@ -563,17 +654,29 @@
   },
   {
     "titre": "Macaron : Recette de base et garniture ganache chocolat",
-    "type":"dessert",
+    "type": "dessert",
     "ingredients": [
       { "quantité": 2, "unité": "", "ingrédient": "blancs d'œufs (80 g)" },
       { "quantité": 20, "unité": "g", "ingrédient": "sucre semoule" },
       { "quantité": 160, "unité": "g", "ingrédient": "sucre glace" },
       { "quantité": 80, "unité": "g", "ingrédient": "poudre d'amandes" },
-      { "quantité": 1, "unité": "cuillère à café", "ingrédient": "jus de citron" },
+      {
+        "quantité": 1,
+        "unité": "cuillère à café",
+        "ingrédient": "jus de citron"
+      },
       { "quantité": 1, "unité": "pincée", "ingrédient": "sel" },
-      { "quantité": 100, "unité": "g", "ingrédient": "crème liquide 30% MG mini" },
+      {
+        "quantité": 100,
+        "unité": "g",
+        "ingrédient": "crème liquide 30% MG mini"
+      },
       { "quantité": 10, "unité": "g", "ingrédient": "Timoline (ou miel)" },
-      { "quantité": 100, "unité": "g", "ingrédient": "chocolat à pâtisser à 52%" }
+      {
+        "quantité": 100,
+        "unité": "g",
+        "ingrédient": "chocolat à pâtisser à 52%"
+      }
     ],
     "instructions": [
       "Mélanger finement le sucre glace et la poudre d'amandes, puis tamiser.",
@@ -588,7 +691,7 @@
   },
   {
     "titre": "Avocat Crevettes tomates",
-    "type":"entree",
+    "type": "entree",
     "ingredients": [
       { "quantité": 2, "unité": "", "ingrédient": "avocats bien mûrs" },
       { "quantité": 12, "unité": "", "ingrédient": "crevettes moyennes" },
@@ -609,10 +712,18 @@
   },
   {
     "titre": "Poêlée de crevettes à l’asiatique",
-    "type":"poisson",
+    "type": "poisson",
     "ingredients": [
-      { "quantité": 20, "unité": "", "ingrédient": "grosses crevettes décortiquées" },
-      { "quantité": 2, "unité": "cuillères à soupe", "ingrédient": "sauce soja" },
+      {
+        "quantité": 20,
+        "unité": "",
+        "ingrédient": "grosses crevettes décortiquées"
+      },
+      {
+        "quantité": 2,
+        "unité": "cuillères à soupe",
+        "ingrédient": "sauce soja"
+      },
       { "quantité": 200, "unité": "g", "ingrédient": "pâtes chinoises" },
       { "quantité": 1, "unité": "noix", "ingrédient": "gingembre frais" },
       { "quantité": 0.5, "unité": "", "ingrédient": "poivron rouge" },
@@ -631,7 +742,7 @@
   },
   {
     "titre": "Clafoutis aux pommes",
-    "type":"dessert",
+    "type": "dessert",
     "ingredients": [
       { "quantité": 3, "unité": "", "ingrédient": "œufs" },
       { "quantité": 5, "unité": "petites", "ingrédient": "pommes (500 g)" },
@@ -652,9 +763,13 @@
   },
   {
     "titre": "Jambon à la chablisienne",
-    "type":"viande",
+    "type": "viande",
     "ingredients": [
-      { "quantité": 4, "unité": "tranches", "ingrédient": "jambon blanc épaisses" },
+      {
+        "quantité": 4,
+        "unité": "tranches",
+        "ingrédient": "jambon blanc épaisses"
+      },
       { "quantité": 20, "unité": "g", "ingrédient": "beurre" },
       { "quantité": 1, "unité": "", "ingrédient": "échalote" },
       { "quantité": 30, "unité": "cl", "ingrédient": "Chablis (ou vin blanc)" },
@@ -672,14 +787,18 @@
   },
   {
     "titre": "Brioche mousseline",
-    "type":"dessert",
+    "type": "dessert",
     "ingredients": [
       { "quantité": 350, "unité": "g", "ingrédient": "farine T55" },
       { "quantité": 50, "unité": "g", "ingrédient": "sucre" },
       { "quantité": 5, "unité": "g", "ingrédient": "sel" },
       { "quantité": 4, "unité": "", "ingrédient": "œufs" },
       { "quantité": 170, "unité": "g", "ingrédient": "beurre fondu" },
-      { "quantité": 20, "unité": "g", "ingrédient": "levure de boulanger fraiche" }
+      {
+        "quantité": 20,
+        "unité": "g",
+        "ingrédient": "levure de boulanger fraiche"
+      }
     ],
     "instructions": [
       "Mélanger tous les ingrédients et laisser au réfrigérateur pendant la nuit.",
@@ -691,14 +810,22 @@
   },
   {
     "titre": "Fantaisies de la Mère Perrin",
-    "type":"dessert",
+    "type": "dessert",
     "ingredients": [
       { "quantité": 250, "unité": "g", "ingrédient": "farine" },
       { "quantité": 2, "unité": "", "ingrédient": "œufs" },
       { "quantité": 75, "unité": "g", "ingrédient": "beurre fondu" },
       { "quantité": 6, "unité": "cl", "ingrédient": "eau" },
-      { "quantité": 2, "unité": "cuillères à soupe", "ingrédient": "sucre en poudre" },
-      { "quantité": 0.5, "unité": "cuillère à café", "ingrédient": "eau de fleur d'oranger" }
+      {
+        "quantité": 2,
+        "unité": "cuillères à soupe",
+        "ingrédient": "sucre en poudre"
+      },
+      {
+        "quantité": 0.5,
+        "unité": "cuillère à café",
+        "ingrédient": "eau de fleur d'oranger"
+      }
     ],
     "instructions": [
       "Mélanger la farine avec les œufs battus.",
@@ -709,7 +836,7 @@
   },
   {
     "titre": "Les gougères parfaites",
-    "type":"aperitif",
+    "type": "aperitif",
     "ingredients": [
       { "quantité": 133, "unité": "g", "ingrédient": "farine" },
       { "quantité": 75, "unité": "g", "ingrédient": "beurre" },
@@ -727,12 +854,16 @@
   },
   {
     "titre": "Noix de Pétoncle au safran en amuse bouche",
-    "type":"aperitif",
+    "type": "aperitif",
     "ingredients": [
       { "quantité": 8, "unité": "", "ingrédient": "noix de Pétoncle" },
       { "quantité": 2, "unité": "pincées", "ingrédient": "safran" },
       { "quantité": 1, "unité": "", "ingrédient": "échalote" },
-      { "quantité": 1, "unité": "cuillère à café", "ingrédient": "fumet de poisson" },
+      {
+        "quantité": 1,
+        "unité": "cuillère à café",
+        "ingrédient": "fumet de poisson"
+      },
       { "quantité": 5, "unité": "cl", "ingrédient": "vin blanc" },
       { "quantité": 8, "unité": "cl", "ingrédient": "crème liquide" },
       { "quantité": 20, "unité": "g", "ingrédient": "beurre" }
@@ -747,7 +878,7 @@
   },
   {
     "titre": "Feuilleté de veau",
-    "type":"entree",
+    "type": "entree",
     "ingredients": [
       { "quantité": 1, "unité": "kg", "ingrédient": "veau à rôtir" },
       { "quantité": 500, "unité": "g", "ingrédient": "champignon frais" },
@@ -765,10 +896,10 @@
       "Dorer à l'œuf et cuire 30 min à Th 8 (240°C)."
     ]
   },
-  
+
   {
     "titre": "Saucisson à l'ail (maison)",
-    "type":"entree",
+    "type": "entree",
     "ingredients": [
       { "quantité": 1, "unité": "kg", "ingrédient": "épaule de porc" },
       { "quantité": 250, "unité": "g", "ingrédient": "gras de porc" },
@@ -789,12 +920,24 @@
   },
   {
     "titre": "Magret de canard séché",
-    "type":"entree",
+    "type": "entree",
     "ingredients": [
-      { "quantité": 1, "unité": "", "ingrédient": "magret de canard (400g environ)" },
+      {
+        "quantité": 1,
+        "unité": "",
+        "ingrédient": "magret de canard (400g environ)"
+      },
       { "quantité": 1, "unité": "kg", "ingrédient": "gros sel de mer" },
-      { "quantité": 2, "unité": "cuillères à soupe", "ingrédient": "poivre noir moulu" },
-      { "quantité": 1, "unité": "cuillère à café", "ingrédient": "herbes de Provence" }
+      {
+        "quantité": 2,
+        "unité": "cuillères à soupe",
+        "ingrédient": "poivre noir moulu"
+      },
+      {
+        "quantité": 1,
+        "unité": "cuillère à café",
+        "ingrédient": "herbes de Provence"
+      }
     ],
     "instructions": [
       "Placer le magret dans un récipient sur un lit de gros sel.",
@@ -808,12 +951,16 @@
 
   {
     "titre": "Noix de Saint Jacques sur fondue de poireaux",
-    "type":"entree",
+    "type": "entree",
     "ingredients": [
       { "quantité": 12, "unité": "", "ingrédient": "noix de Saint Jacques" },
       { "quantité": 4, "unité": "", "ingrédient": "poireaux" },
       { "quantité": 30, "unité": "g", "ingrédient": "beurre" },
-      { "quantité": 2, "unité": "cuillères à soupe", "ingrédient": "crème fraîche" },
+      {
+        "quantité": 2,
+        "unité": "cuillères à soupe",
+        "ingrédient": "crème fraîche"
+      },
       { "quantité": 1, "unité": "filet", "ingrédient": "huile d'olive" },
       { "quantité": 0, "unité": "", "ingrédient": "sel, poivre" }
     ],
@@ -827,10 +974,14 @@
   },
   {
     "titre": "Shoot de melon",
-    "type":"aperitif",
+    "type": "aperitif",
     "ingredients": [
       { "quantité": 1, "unité": "", "ingrédient": "beau melon bien mûr" },
-      { "quantité": 10, "unité": "cl", "ingrédient": "Pineau des Charentes (ou Porto)" },
+      {
+        "quantité": 10,
+        "unité": "cl",
+        "ingrédient": "Pineau des Charentes (ou Porto)"
+      },
       { "quantité": 6, "unité": "feuilles", "ingrédient": "menthe fraîche" },
       { "quantité": 1, "unité": "pincée", "ingrédient": "piment d'Espelette" }
     ],
@@ -843,14 +994,26 @@
   },
   {
     "titre": "Tarte Thon Tomates Moutarde",
-    "type":"entree",
+    "type": "entree",
     "ingredients": [
       { "quantité": 1, "unité": "pâte", "ingrédient": "brisée" },
-      { "quantité": 1, "unité": "grosse boîte", "ingrédient": "thon au naturel" },
+      {
+        "quantité": 1,
+        "unité": "grosse boîte",
+        "ingrédient": "thon au naturel"
+      },
       { "quantité": 3, "unité": "", "ingrédient": "belles tomates" },
-      { "quantité": 2, "unité": "cuillères à soupe", "ingrédient": "moutarde forte" },
+      {
+        "quantité": 2,
+        "unité": "cuillères à soupe",
+        "ingrédient": "moutarde forte"
+      },
       { "quantité": 100, "unité": "g", "ingrédient": "gruyère râpé" },
-      { "quantité": 1, "unité": "cuillère à café", "ingrédient": "herbes de Provence" }
+      {
+        "quantité": 1,
+        "unité": "cuillère à café",
+        "ingrédient": "herbes de Provence"
+      }
     ],
     "instructions": [
       "Préchauffer le four à 200°C.",
