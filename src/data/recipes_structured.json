@@ -28,7 +28,7 @@
   },
   {
     "titre": "Endives au Jambon",
-    "type": "legume",
+    "type": "plat",
     "ingredients": [
       { "quantité": 2, "unité": "", "ingrédient": "grosses endives" },
       {
@@ -55,7 +55,7 @@
   },
   {
     "titre": "Filet Mignon de Veau (Basse Température)",
-    "type": "viande",
+    "type": "plat",
     "ingredients": [
       { "quantité": 900, "unité": "g", "ingrédient": "filet mignon de veau" },
       { "quantité": 2, "unité": "cuillères à soupe", "ingrédient": "beurre" },
@@ -110,7 +110,7 @@
   },
   {
     "titre": "Filet Mignon Salé Séché",
-    "type": "viande",
+    "type": "plat",
     "ingredients": [
       { "quantité": 1, "unité": "", "ingrédient": "filet mignon de porc" },
       { "quantité": 900, "unité": "g", "ingrédient": "sel de Guérande" },
@@ -292,11 +292,12 @@
       "Mélanger les jaunes et le sucre, ajouter la crème et le lait filtré.",
       "Cuire au bain-marie à 130° pendant 40mn.",
       "Saupoudrer de cassonade et caraméliser avant de servir."
-    ]
+    ],
+    "image":"/assets/creme-brule-lavande.webp"
   },
   {
     "titre": "Courgettes aux Lardons",
-    "type": "legume",
+    "type": "plat",
     "ingredients": [
       { "quantité": 3, "unité": "", "ingrédient": "courgettes moyennes" },
       { "quantité": 1, "unité": "", "ingrédient": "oignon" },
@@ -312,11 +313,12 @@
       "Poêler l'oignon et les courgettes dans l'huile pendant 5mn.",
       "Ajouter les lardons et cuire à feu doux 12mn.",
       "Ajouter l'ail haché et rectifier l'assaisonnement."
-    ]
+    ],
+    "image":"/assets/courgette-lardon.webp"
   },
   {
     "titre": "Verrine de Gambas à la Crème d'Avocat",
-    "type": "entree",
+    "type": "aperitif",
     "ingredients": [
       { "quantité": 10, "unité": "", "ingrédient": "gambas cuites" },
       { "quantité": 10, "unité": "g", "ingrédient": "vinaigre balsamique" },
@@ -330,7 +332,8 @@
       "Mixer la chair d'avocat avec la crème et le citron.",
       "Alterner les couches de gambas et de crème dans les verrines.",
       "Décorer de cerfeuil."
-    ]
+    ],
+    "image":"/assets/verrine-gambas-avocat.webp"
   },
   {
     "titre": "Beurre d'Escargot",
@@ -347,7 +350,8 @@
       "Sortir le beurre pour qu'il soit onctueux.",
       "Hacher l'ail, l'échalote et le persil au robot.",
       "Mélanger intimement le beurre avec le hachis et l'assaisonnement."
-    ]
+    ],
+    "image":"/assets/beurre-escargot.webp"
   },
   {
     "titre": "Clafoutis aux Pêches de Vigne",
@@ -372,7 +376,8 @@
       "Ajouter lait et crème.",
       "Éplucher les pêches et les disposer dans un plat beurré.",
       "Verser la pâte et cuire 35 à 40mn."
-    ]
+    ],
+    "image":"/assets/clafouti-peche.webp"
   },
   {
     "titre": "Clafoutis aux Coings",
@@ -397,7 +402,8 @@
       "Mélanger œufs, sucre, farine, lait et beurre fondu.",
       "Disposer les coings dans un plat et recouvrir de pâte.",
       "Cuire à 180°C pendant 30mn."
-    ]
+    ],
+    "image":"/assets/clafouti-coin.webp"
   },
   {
     "titre": "Gâteau Moelleux au Chocolat",
@@ -415,7 +421,8 @@
       "Ajouter le beurre en dés, puis les œufs après 5mn.",
       "Incorporer la farine au fouet.",
       "Cuire au bain-marie à 180°C pendant 30mn."
-    ]
+    ],
+    "image":"/assets/mouelleux-chocolat.webp"
   },
   {
     "titre": "Mchaouek",
@@ -436,7 +443,8 @@
       "Mélanger coco, sucre et fleur d'oranger.",
       "Incorporer les blancs et former des boules.",
       "Cuire à 180° pendant 15mn."
-    ]
+    ],
+    "image":"/assets/mchouek.webp"
   },
   {
     "titre": "Meringuettes",
@@ -450,7 +458,8 @@
       "Monter les blancs, ajouter le sucre en poudre en fouettant 8mn.",
       "Ajouter le sucre glace.",
       "Former à la douille et cuire 1h à 100°C."
-    ]
+    ],
+    "image":"/assets/meringuette.webp"
   },
   {
     "titre": "Minestrone Glacé Concombre Melon",

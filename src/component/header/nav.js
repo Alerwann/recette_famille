@@ -22,7 +22,7 @@ export default function Navigation() {
             }}
             className={navLinkStyle}
           >
-            Apéritif
+            Apéritifs
           </Link>
         </li>
         <li>
@@ -44,18 +44,18 @@ export default function Navigation() {
             }}
             className={navLinkStyle}
           >
-            Poisson
+            Poissons
           </Link>
         </li>
         <li>
           <Link
             href={{
               pathname: "/liste_recettes",
-              query: { typeRecipein: "viande" },
+              query: { typeRecipein: "plat" },
             }}
             className={navLinkStyle}
           >
-            Viandes
+            Plats
           </Link>
         </li>
         <li>

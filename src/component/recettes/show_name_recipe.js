@@ -6,23 +6,27 @@ export default function ShowNameRecipe({ typeRecipe }) {
   console.log(typeRecipe);
 
   return (
-    <div className="m-5 grid grid-cols-1 md:grid-cols-3 gap-5 ">
+    <div className="m-5 grid grid-cols-1 md:grid-cols-3 gap-5  ">
       {recipes
         .filter((item) => item.type == typeRecipe)
         .map((item, index) => (
           <div
             key={index}
-            className="flex flex-row gap-2 justify-items-center items-center text-center border-2 border-black rounded-lg hover:bg-amber-200"
+            className="flex flex-row gap-2 border-2 border-black rounded-lg group hover:shadow-[0px_0px_10px_10px_rgba(245,200,40,0.75)]"
           >
-            <Link className="flex-1 p-3" href="/">
-              {item.titre}
-            </Link>
+            <div className="flex-1 p-3 group-hover:bg-amber-200 h-full  content-center ">
+              <Link className=" flex-1 text-center  " href="/">
+                {item.titre}
+              </Link>
+            </div>
+
             <Image
               className="flex-1"
               src={item.image ? item.image : '/fond_dessert.jpg'}
               alt={item.titre}
-              width={50}
-              height={50}
+              width={60}
+              height={60}
+              unoptimized
             />
           </div>
         ))}
