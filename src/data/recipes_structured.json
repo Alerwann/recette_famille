@@ -479,11 +479,12 @@
       "Mixer les chairs avec menthe, huile et citron.",
       "Réserver au frais.",
       "Servir décoré de dés de fruits."
-    ]
+    ],
+    "image":"/assets/minestronemelon.webp"
   },
   {
     "titre": "Pintade aux Morilles",
-    "type": "viande",
+    "type": "plat",
     "ingredients": [
       { "quantité": 1, "unité": "", "ingrédient": "pintade" },
       { "quantité": 3, "unité": "", "ingrédient": "échalotes" },
@@ -496,11 +497,12 @@
       "Réhydrater les morilles.",
       "Dorer la pintade, déglacer au vin jaune et cuire 1h.",
       "Ajouter morilles et crème 10mn avant la fin."
-    ]
+    ],
+    "image":"/assets/pintade.webp"
   },
   {
     "titre": "Quenelles de Veau à la façon de l' Olga",
-    "type": "viande",
+    "type": "plat",
     "ingredients": [
       { "quantité": 250, "unité": "g", "ingrédient": "maigre de veau" },
       { "quantité": 125, "unité": "g", "ingrédient": "gras de veau" },
@@ -511,7 +513,8 @@
       "Hacher la viande, mélanger avec la mie et l'œuf.",
       "Former les quenelles et les pocher à l'eau bouillante.",
       "Servir avec une sauce tomate aux olives et champignons."
-    ]
+    ],
+    "image":"/assets/quenelle.webp"
   },
   {
     "titre": "Beurre Citronné",
@@ -523,7 +526,8 @@
     "instructions": [
       "Clarifier le beurre à feu doux.",
       "Fouetter avec le citron et saler."
-    ]
+    ],
+    "image":"/assets/beurre-citron.webp"
   },
   {
     "titre": "Soupe Tiède d'Oranges Sanguines",
@@ -542,7 +546,8 @@
       "Faire un sirop avec eau, sucre et épices.",
       "Peler les oranges à vif et les cuire 20mn au four à 220°.",
       "Arroser du sirop réduit mélangé à l'alcool."
-    ]
+    ],
+    "image":"/assets/soupe-orange.webp"
   },
   {
     "titre": "Foie Gras au Micro-onde",
@@ -560,11 +565,12 @@
       "Dénerver le foie gras et le mariner dans l'alcool.",
       "Cuire par tranches de 20s au micro-onde (env. 2mn20).",
       "Presser 24h au frais avant de recouvrir de graisse."
-    ]
+    ],
+    "image":"/assets/foie-gras.webp"
   },
   {
     "titre": "Canapé de Boudin Blanc",
-    "type": "entree",
+    "type": "aperitif",
     "ingredients": [
       { "quantité": 4, "unité": "", "ingrédient": "boudins blancs" },
       { "quantité": 6, "unité": "tranches", "ingrédient": "bacon" },
@@ -574,11 +580,12 @@
       "Cuire les pommes en dés 10mn.",
       "Griller le bacon et le boudin tranché.",
       "Dresser la pomme et le bacon sur le boudin."
-    ]
+    ],
+    "image":"/assets/canape-boudin-pomme.webp"
   },
   {
     "titre": "Frites au Four",
-    "type": "legume",
+    "type": "plat",
     "ingredients": [
       { "quantité": 1, "unité": "kg", "ingrédient": "pomme de terre" },
       { "quantité": 1, "unité": "cuillère à soupe", "ingrédient": "huile" },
@@ -588,11 +595,12 @@
       "Précuire les frites 7mn à l'eau.",
       "Mélanger avec l'huile et cuire 40mn à 180°C.",
       "Finir avec l'ail et un filet d'huile d'olive."
-    ]
+    ],
+    "image":"/assets/frite-four.webp"
   },
   {
     "titre": "Œufs au Vin",
-    "type": "entree",
+    "type": "plat",
     "ingredients": [
       {
         "quantité": 1,
@@ -607,11 +615,12 @@
       "Réduire le vin avec lardons et aromates pendant 1h30.",
       "Pocher les œufs dans la sauce filtrée.",
       "Servir sur pain grillé frotté à l'ail."
-    ]
+    ],
+    "image":"/assets/oeuf-vin.webp"
   },
   {
     "titre": "Petits Croissants au Saumon",
-    "type": "entree",
+    "type": "aperitif",
     "ingredients": [
       { "quantité": 1, "unité": "pâte", "ingrédient": "feuilletée" },
       { "quantité": 200, "unité": "g", "ingrédient": "saumon" },
@@ -621,11 +630,12 @@
       "Couper la pâte en 16 triangles.",
       "Déposer saumon et crème sur la base.",
       "Rouler en croissant et cuire 25mn à 210°C."
-    ]
+    ],
+    "image":"/assets/croissant-saumon.webp"
   },
   {
     "titre": "Riz Cantonais",
-    "type": "legume",
+    "type": "plat",
     "ingredients": [
       { "quantité": 300, "unité": "g", "ingrédient": "riz thaï cuit" },
       { "quantité": 2, "unité": "tranches", "ingrédient": "jambon" },
@@ -642,7 +652,8 @@
       "Cuire les œufs brouillés dans le wok.",
       "Ajouter le riz, les petits pois, le jambon et les crevettes.",
       "Assaisonner à la sauce soja."
-    ]
+    ],
+    "image":"/assets/riz-cantonais.webp"
   },
   {
     "titre": "Pavé de Saumon Laqué",
@@ -659,7 +670,8 @@
       "Cuire le saumon côté peau à feu très doux pendant 25mn.",
       "Verser la sauce soja en fin de cuisson.",
       "Laquer les pavés avec la sauce réduite."
-    ]
+    ],
+    "image":"/assets/saumon-laque.webp"
   },
   {
     "titre": "Macaron : Recette de base et garniture ganache chocolat",
@@ -696,7 +708,8 @@
       "Laisser reposer 1h à température ambiante.",
       "Cuire 11mn à 150°C.",
       "Pour la garniture : amener la crème et le miel à ébullition, verser sur le chocolat et mélanger."
-    ]
+    ],
+    "image":"/assets/macaron.webp"
   },
   {
     "titre": "Avocat Crevettes tomates",
@@ -717,7 +730,8 @@
       "Détailler la chair des avocats en petits cubes.",
       "Mélanger les crevettes, les tomates et l'avocat avec la mayonnaise.",
       "Dresser sur assiette et saupoudrer de paprika."
-    ]
+    ],
+    "image":"/assets/avocat-tomate-crevette.webp"
   },
   {
     "titre": "Poêlée de crevettes à l’asiatique",
@@ -747,7 +761,8 @@
       "Saisir l'ail et le gingembre 2 min à la poêle, puis ajouter les crevettes (1 min à feu vif).",
       "Faire revenir les oignons et le poivron émincés 1 min.",
       "Ajouter les pâtes et la marinade, chauffer l'ensemble et servir."
-    ]
+    ],
+    "image":"/assets/crevette-asiatique.webp"
   },
   {
     "titre": "Clafoutis aux pommes",
@@ -768,11 +783,12 @@
       "Disposer les pommes dans un plat beurré et verser l'appareil.",
       "Cuire 45 min à 210°C.",
       "Saupoudrer de sucre vanillé à la sortie du four."
-    ]
+    ],
+    "image":"/assets/clafouti-pomme.webp"
   },
   {
     "titre": "Jambon à la chablisienne",
-    "type": "viande",
+    "type": "plat",
     "ingredients": [
       {
         "quantité": 4,
@@ -792,7 +808,8 @@
       "Passer la sauce au chinois fin.",
       "Epaissir avec la Maïzena délayée dans un peu de liquide froid.",
       "Réchauffer doucement le jambon dans la sauce."
-    ]
+    ],
+    "image":"/assets/jambon-chablissienne.webp"
   },
   {
     "titre": "Brioche mousseline",
@@ -815,7 +832,8 @@
       "Couper en 8 morceaux et les placer dans un moule beurré.",
       "Laisser lever 2 à 3 heures dans le four éteint.",
       "Cuire environ 30 mn à 175°C (départ four froid)."
-    ]
+    ],
+    "image":"/assets/brioche.webp"
   },
   {
     "titre": "Fantaisies de la Mère Perrin",
@@ -841,7 +859,8 @@
       "Ajouter l'eau, le beurre, la fleur d'oranger, le sucre et le sel. Travailler la pâte.",
       "Laisser reposer une heure à température ambiante.",
       "Etaler finement, détailler à la roulette et frire dans l'huile chaude."
-    ]
+    ],
+    "image":"/assets/fantaisie.webp"
   },
   {
     "titre": "Les gougères parfaites",
@@ -859,7 +878,8 @@
       "Incorporer les œufs un à un, puis ajouter le comté.",
       "Laisser reposer 30 min.",
       "Former des petits tas et cuire 5 min à 180°C, puis 20 min à 200°C."
-    ]
+    ],
+    "image":"/assets/gougere.webp"
   },
   {
     "titre": "Noix de Pétoncle au safran en amuse bouche",
@@ -883,7 +903,8 @@
       "Faire revenir les échalotes 5 min.",
       "Ajouter le fumet, le vin et le safran. Réduire presque totalement.",
       "Ajouter la crème, laisser épaissir 1 min, puis réchauffer les noix dans la sauce."
-    ]
+    ],
+    "image":"/assets/petoncle-amuse.webp"
   },
   {
     "titre": "Feuilleté de veau",
@@ -903,7 +924,8 @@
       "Ajouter la crème en fin de cuisson.",
       "Garnir un moule de pâte, verser la préparation et recouvrir d'un second disque de pâte.",
       "Dorer à l'œuf et cuire 30 min à Th 8 (240°C)."
-    ]
+    ],
+    "image":"/assets/tourte-viande.webp"
   },
 
   {
@@ -925,7 +947,8 @@
       "Laisser reposer 24h au frais.",
       "Cuire à l'eau frémissante (80°C max) pendant 45 minutes.",
       "Refroidir immédiatement après cuisson."
-    ]
+    ],
+    "image":"/assets/saucisson-ail.webp"
   },
   {
     "titre": "Magret de canard séché",
@@ -955,7 +978,8 @@
       "Frotter le magret avec le poivre et les herbes sur toutes ses faces.",
       "Envelopper dans un torchon propre et sec.",
       "Placer dans le bas du réfrigérateur pendant 3 semaines minimum avant dégustation."
-    ]
+    ],
+    "image":"/assets/magret seche.webp"
   },
 
   {
@@ -979,7 +1003,8 @@
       "Ajouter la crème, saler, poivrer et réserver au chaud.",
       "Saisir les noix de Saint Jacques à l'huile d'olive (1 min 30 par face).",
       "Dresser les noix sur le lit de poireaux et servir immédiatement."
-    ]
+    ],
+    "image":"/assets/noix-poireau.webp"
   },
   {
     "titre": "Shoot de melon",
@@ -999,7 +1024,8 @@
       "Ajouter l'alcool et le piment.",
       "Ciseler la menthe et l'incorporer.",
       "Placer au congélateur pendant 30 minutes pour servir très frappé dans des verrines."
-    ]
+    ],
+    "image":"/assets/shoot-melon.webp"
   },
   {
     "titre": "Tarte Thon Tomates Moutarde",
@@ -1032,6 +1058,7 @@
       "Couper les tomates en rondelles et les disposer sur le thon.",
       "Saupoudrer d'herbes de Provence et recouvrir de fromage râpé.",
       "Enfourner pour 30 à 35 minutes."
-    ]
+    ],
+    "image":"/assets/tarte-thon-tomate.webp"
   }
 ]
