@@ -3,6 +3,7 @@
 import ShowNameRecipe from "../../component/recettes/show_name_recipe";
 import { useSearchParams } from "next/navigation";
 
+
 export default function ListeRecette() {
   const typeRecipein = useSearchParams().get("typeRecipein");
 
