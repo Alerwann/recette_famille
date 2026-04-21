@@ -3,6 +3,7 @@ import "./globals.css";
 import Header from "../component/header/header";
 import VerifAcces from "../component/accueil/acces";
 import { Suspense } from "react";
+import Footer from "../component/footer/footer";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -39,6 +40,7 @@ export default function RootLayout({ children }) {
           <VerifAcces>
             <Header />
             {children}
+            <Footer/>
           </VerifAcces>
         </Suspense>
       </body>
