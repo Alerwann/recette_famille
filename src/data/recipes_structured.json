@@ -1107,5 +1107,261 @@
       "Enfourner pour 30 à 35 minutes."
     ],
     "image": "/assets/tarte-thon-tomate.webp"
+  },
+
+  {
+    "titre": "Bavarois aux fraises",
+    "type": "dessert",
+    "portion": "8 personnes",
+    "ingredients": [
+      { "quantité": 3, "unité": "", "ingrédient": "œufs" },
+      { "quantité": 70, "unité": "g", "ingrédient": "farine" },
+      { "quantité": 70, "unité": "g", "ingrédient": "sucre en poudre" },
+      { "quantité": 270, "unité": "g", "ingrédient": "fraises" },
+      { "quantité": 100, "unité": "g", "ingrédient": "sucre en poudre" },
+      { "quantité": 4, "unité": "feuilles", "ingrédient": "gélatine" },
+      { "quantité": 30, "unité": "cl", "ingrédient": "crème liquide entière" },
+      { "quantité": 130, "unité": "g", "ingrédient": "fraises (pour nappage)" },
+      {
+        "quantité": 1.3,
+        "unité": "feuille",
+        "ingrédient": "gélatine (pour nappage)"
+      }
+    ],
+    "instructions": [
+      "Biscuit : Monter les blancs en neige avec une pincée de sel. Mélanger les jaunes et le sucre, ajouter la farine, incorporer les blancs. Cuire 7mn à 180°C dans un moule de 23cm.",
+      "Mousse : Monter la crème en chantilly. Faire tremper la gélatine. Mixer les fraises avec le sucre, chauffer, ajouter la gélatine essorée, puis mélanger au coulis et à la chantilly.",
+      "Montage : Découper le fond de génoise avec le cercle de 18cm. Verser la mousse par-dessus et réfrigérer 3h.",
+      "Nappage : Préparer avec la gélatine et les fraises, verser sur la mousse et lisser."
+    ],
+    "image": "assets/bavarois-fraise.webp"
+  },
+  {
+    "titre": "Escalope de poulet vapeur - Sauce citron",
+    "type": "plat",
+    "portion": "4 personnes",
+    "ingredients": [
+      { "quantité": 4, "unité": "", "ingrédient": "escalopes de poulet" },
+      { "quantité": 3, "unité": "", "ingrédient": "petites courgettes bio" },
+      { "quantité": 0, "unité": "", "ingrédient": "sel, poivre" },
+      { "quantité": 2, "unité": "", "ingrédient": "citrons" },
+      { "quantité": 1, "unité": "", "ingrédient": "échalote" },
+      { "quantité": 25, "unité": "cl", "ingrédient": "crème liquide" },
+      { "quantité": 1, "unité": "noisette", "ingrédient": "beurre" },
+      { "quantité": 5, "unité": "cl", "ingrédient": "vin blanc sec" },
+      { "quantité": 5, "unité": "cl", "ingrédient": "jus de citron" },
+      { "quantité": 0, "unité": "", "ingrédient": "graines de pavot" }
+    ],
+    "instructions": [
+      "Blanchir les zestes de citron 2mn.",
+      "Couper les courgettes en rondelles. Huiler légèrement le cuit-vapeur, disposer les courgettes et le poulet assaisonnés. Cuire 20mn.",
+      "Sauce : Faire dorer l'échalote dans le beurre, ajouter le vin, réduire. Ajouter la crème, le jus de citron, sel et poivre, laisser réduire.",
+      "Servir le poulet et les courgettes nappés de sauce, saupoudrés de zestes et pavot."
+    ],
+    "image": "assets/escalope-poulet-vapeur.webp"
+  },
+  {
+    "titre": "Crème brulée au safran de Talant",
+    "type": "dessert",
+    "portion": "7/8 ramequins",
+    "ingredients": [
+      { "quantité": 20, "unité": "cl", "ingrédient": "lait" },
+      { "quantité": 60, "unité": "cl", "ingrédient": "crème liquide" },
+      { "quantité": 15, "unité": "pistils", "ingrédient": "safran" },
+      { "quantité": 9, "unité": "", "ingrédient": "jaunes d'œufs" },
+      { "quantité": 150, "unité": "g", "ingrédient": "sucre semoule" },
+      { "quantité": 0, "unité": "", "ingrédient": "cassonade" }
+    ],
+    "instructions": [
+      "La veille, porter lait et crème à ébullition, ajouter le safran. Laisser infuser et refroidir au frigo.",
+      "Filtrer la préparation. Fouetter les jaunes avec le sucre, incorporer le mélange safrané.",
+      "Verser dans les ramequins. Cuire 1h15 au bain-marie à 120°C.",
+      "Réfrigérer 3h minimum. Saupoudrer de cassonade et caraméliser au chalumeau avant de servir."
+    ],
+    "image": "assets/creme-brulee-safran.webp"
+  },
+  {
+    "titre": "Clafoutis à la rhubarbe",
+    "type": "dessert",
+    "portion": "4 personnes",
+    "ingredients": [
+      { "quantité": 600, "unité": "g", "ingrédient": "rhubarbe" },
+      { "quantité": 3, "unité": "", "ingrédient": "œufs" },
+      { "quantité": 60, "unité": "g", "ingrédient": "farine" },
+      { "quantité": 20, "unité": "cl", "ingrédient": "lait" },
+      { "quantité": 20, "unité": "cl", "ingrédient": "crème" },
+      { "quantité": 1, "unité": "sachet", "ingrédient": "sucre vanillé" },
+      { "quantité": 140, "unité": "g", "ingrédient": "sucre" }
+    ],
+    "instructions": [
+      "Préchauffer le four à 200°C.",
+      "Éplucher la rhubarbe.",
+      "Mélanger les œufs et la farine. Ajouter le lait, la crème, le sucre et le sucre vanillé. Bien mélanger.",
+      "Ajouter la rhubarbe, verser dans un moule et cuire 50mn env."
+    ],
+    "image": "assets/clafoutis-rubarbe.webp"
+  },
+  {
+    "titre": "Bouchée Boudin blanc aux pommes",
+    "type": "aperitif",
+    "portion": "4 personnes",
+    "ingredients": [
+      { "quantité": 1, "unité": "", "ingrédient": "Boudin blanc" },
+      { "quantité": 1, "unité": "noisette", "ingrédient": "beurre" },
+      { "quantité": 2, "unité": "", "ingrédient": "pommes" },
+      { "quantité": 1, "unité": "càc", "ingrédient": "cassonade" },
+      { "quantité": 1, "unité": "càs", "ingrédient": "eau" },
+      { "quantité": 0, "unité": "", "ingrédient": "cannelle en poudre" }
+    ],
+    "instructions": [
+      "Retirer la peau du boudin et couper en rondelles.",
+      "Peler et couper les pommes, cuire à couvert avec l'eau. Quand elles sont cuites, ajouter cassonade et cannelle. Laisser cuire 5mn, puis écraser à la fourchette.",
+      "Dorer les tranches de boudin dans le beurre.",
+      "Déposer une cuillère de compote, une rondelle de boudin et une pincée de cannelle. Servir chaud."
+    ],
+    "image": "assets/bouche-boudin.webp"
+  },
+  {
+    "titre": "Bouchées aux 2 saumons",
+    "type": "aperitif",
+    "portion": "8 personnes",
+    "ingredients": [
+      { "quantité": 1, "unité": "", "ingrédient": "darne de Saumon" },
+      { "quantité": 2, "unité": "tranches", "ingrédient": "saumon fumé" },
+      { "quantité": 1, "unité": "càs", "ingrédient": "crème fraîche" },
+      { "quantité": 1, "unité": "càs", "ingrédient": "moutarde" },
+      { "quantité": 1, "unité": "", "ingrédient": "jus d'un citron" },
+      { "quantité": 0, "unité": "", "ingrédient": "aneth, poivre" }
+    ],
+    "instructions": [
+      "Cuire la darne de saumon au micro-ondes pendant 2mn.",
+      "Ajouter le saumon fumé coupé en gros morceaux.",
+      "Passer au mixeur.",
+      "Ajouter la crème, la moutarde, le poivre, le jus de citron et l'aneth. Mettre au frais avant de servir."
+    ],
+    "image": "assets/bouche-saumon.webp"
+  },
+  {
+    "titre": "Lotte au safran",
+    "type": "poisson",
+    "portion": "4 personnes",
+    "ingredients": [
+      { "quantité": 1, "unité": "kg", "ingrédient": "lotte" },
+      { "quantité": 1, "unité": "", "ingrédient": "oignon" },
+      { "quantité": 4, "unité": "càs", "ingrédient": "crème fraîche" },
+      { "quantité": 50, "unité": "g", "ingrédient": "beurre" },
+      { "quantité": 10, "unité": "cl", "ingrédient": "vin blanc sec" },
+      { "quantité": 1, "unité": "càc", "ingrédient": "pistils de safran" },
+      { "quantité": 0, "unité": "", "ingrédient": "sel, poivre" }
+    ],
+    "instructions": [
+      "Parer la lotte et couper en morceaux. Émincer l'oignon.",
+      "Faire revenir l'oignon et la lotte dans le beurre dans une cocotte.",
+      "Verser le vin blanc, ajouter le safran, assaisonner. Couvrir et laisser cuire 10mn à feu doux.",
+      "Ajouter la crème fraîche et poursuivre la cuisson 15mn."
+    ],
+    "image": "assets/lotte-safran.webp"
+  },
+  {
+    "titre": "Magret au Poivre Vert",
+    "type": "plat",
+    "portion": "2 personnes",
+    "ingredients": [
+      { "quantité": 1, "unité": "", "ingrédient": "magret de canard" },
+      { "quantité": 15, "unité": "cl", "ingrédient": "crème liquide" },
+      { "quantité": 5, "unité": "cl", "ingrédient": "cognac" },
+      { "quantité": 1, "unité": "càc", "ingrédient": "fond de veau" },
+      { "quantité": 1, "unité": "càs", "ingrédient": "poivre vert" },
+      { "quantité": 0, "unité": "", "ingrédient": "sel et poivre" }
+    ],
+    "instructions": [
+      "Parer le magret, couper en 2. Cuire côté gras 8mn à feu doux.",
+      "Jeter le gras, retourner et cuire 5mn. Réserver.",
+      "Déglacer avec le cognac, ajouter le poivre vert, la crème et le fond de veau. Écraser un peu de poivre vert pour parfumer.",
+      "Laisser frémir 2mn pour épaissir. Servir nappé de sauce."
+    ],
+    "image": "assets/magret-poivre-vert.webp"
+  },
+  {
+    "titre": "Moules au Safran de Talant",
+    "type": "poisson",
+    "portion": "4 personnes",
+    "ingredients": [
+      { "quantité": 2, "unité": "", "ingrédient": "échalotes" },
+      { "quantité": 3, "unité": "feuilles", "ingrédient": "laurier" },
+      { "quantité": 2, "unité": "branches", "ingrédient": "thym" },
+      { "quantité": 30, "unité": "gr", "ingrédient": "beurre" },
+      { "quantité": 1.5, "unité": "kg", "ingrédient": "moules" },
+      { "quantité": 1, "unité": "verre", "ingrédient": "vin blanc" },
+      { "quantité": 0.05, "unité": "gr", "ingrédient": "safran en filaments" },
+      { "quantité": 3, "unité": "càs", "ingrédient": "crème fraîche" },
+      { "quantité": 0, "unité": "", "ingrédient": "sel et poivre" }
+    ],
+    "instructions": [
+      "Infuser le safran dans la crème.",
+      "Faire revenir échalotes, laurier et thym dans le beurre. Ajouter le vin, cuire 2mn.",
+      "Ajouter les moules, couvrir et cuire 5mn à feu vif. Une fois ouvertes, ajouter la crème au safran, assaisonner. Laisser reposer 5mn.",
+      "Répartir les moules et napper de sauce."
+    ],
+    "image": "assets/moules-safran.webp"
+  },
+  {
+    "titre": "Smoothie à l'avocat",
+    "type": "aperitif",
+    "portion": "8 personnes",
+    "ingredients": [
+      { "quantité": 1, "unité": "", "ingrédient": "avocat" },
+      { "quantité": 0.5, "unité": "", "ingrédient": "concombre" },
+      { "quantité": 8, "unité": "feuilles", "ingrédient": "basilic" },
+      { "quantité": 1, "unité": "càs", "ingrédient": "jus de citron" },
+      { "quantité": 25, "unité": "ml", "ingrédient": "vodka ou tequila" },
+      { "quantité": 0, "unité": "", "ingrédient": "sel" },
+      { "quantité": 1, "unité": "trait", "ingrédient": "Tabasco" }
+    ],
+    "instructions": [
+      "Mettre tous les ingrédients dans un mixeur.",
+      "Mixer et filmer au contact.",
+      "Réserver au moins 1 heure au réfrigérateur.",
+      "Détendre avec un peu d'eau fraîche si trop épais."
+    ],
+    "image": "assets/smoothie-avocat.webp"
+  },
+  {
+    "titre": "Soupe à la Bocuse",
+    "type": "entree",
+    "portion": "6 personnes",
+    "ingredients": [
+      { "quantité": 400, "unité": "g", "ingrédient": "pâte feuilletée" },
+      { "quantité": 180, "unité": "g", "ingrédient": "foie gras mi-cuit" },
+      { "quantité": 200, "unité": "g", "ingrédient": "champignons de Paris" },
+      { "quantité": 2, "unité": "", "ingrédient": "carottes" },
+      { "quantité": 1, "unité": "branche", "ingrédient": "céleri" },
+      { "quantité": 1, "unité": "", "ingrédient": "oignon" },
+      { "quantité": 1, "unité": "", "ingrédient": "échalote" },
+      {
+        "quantité": 1,
+        "unité": "",
+        "ingrédient": "tablette de bouillon de volaille"
+      },
+      { "quantité": 1, "unité": "càs", "ingrédient": "fond de veau en poudre" },
+      { "quantité": 1, "unité": "", "ingrédient": "jaune d'œuf" },
+      { "quantité": 50, "unité": "g", "ingrédient": "farine" },
+      { "quantité": 20, "unité": "g", "ingrédient": "beurre" },
+      {
+        "quantité": 3,
+        "unité": "càc",
+        "ingrédient": "huile aromatisée à la truffe"
+      }
+    ],
+    "instructions": [
+      "Préparer le bouillon avec la tablette et le fond de veau. Laisser réduire.",
+      "Couper les légumes en brunoise et les faire étuver dans le beurre.",
+      "Répartir la brunoise dans 6 soupières, verser le bouillon au 2/3, laisser refroidir.",
+      "Ajouter le foie gras détaillé en cubes dans les soupières froides.",
+      "Découper 6 disques de pâte feuilletée. Dorer le bord des soupières au jaune d'œuf, poser la pâte et sceller les bords.",
+      "Badigeonner le dessus au jaune d'œuf et réfrigérer 1h.",
+      "Préchauffer à 210°C et enfourner 20mn."
+    ],
+    "image": "assets/Soupe à la Bocuse.webp"
   }
 ]
