@@ -2,6 +2,7 @@
   {
     "titre": "Crème Caramel",
     "type": "dessert",
+    "portion": "6 - 8 personnes",
     "ingredients": [
       { "quantité": 1, "unité": "l", "ingrédient": "lait" },
       {
@@ -29,6 +30,7 @@
   {
     "titre": "Endives au Jambon",
     "type": "plat",
+    "portion": "2 personnes",
     "ingredients": [
       { "quantité": 2, "unité": "", "ingrédient": "grosses endives" },
       {
@@ -56,6 +58,7 @@
   {
     "titre": "Filet Mignon de Veau (Basse Température)",
     "type": "plat",
+    "portion": "6 personnes",
     "ingredients": [
       { "quantité": 900, "unité": "g", "ingrédient": "filet mignon de veau" },
       { "quantité": 2, "unité": "cuillères à soupe", "ingrédient": "beurre" },
@@ -79,6 +82,7 @@
   {
     "titre": "Pain d'Épices",
     "type": "dessert",
+    "portion": "6 personnes",
     "ingredients": [
       { "quantité": 225, "unité": "g", "ingrédient": "miel" },
       { "quantité": 75, "unité": "g", "ingrédient": "sucre" },
@@ -111,6 +115,7 @@
   {
     "titre": "Filet Mignon Salé Séché",
     "type": "plat",
+    "portion": "1 petit apéritif",
     "ingredients": [
       { "quantité": 1, "unité": "", "ingrédient": "filet mignon de porc" },
       { "quantité": 900, "unité": "g", "ingrédient": "sel de Guérande" },
@@ -139,6 +144,7 @@
   {
     "titre": "Tuiles aux Amandes",
     "type": "mignardise",
+    "portion": "20 unités",
     "ingredients": [
       { "quantité": 80, "unité": "g", "ingrédient": "sucre en poudre" },
       { "quantité": 2, "unité": "", "ingrédient": "blancs d'œufs" },
@@ -159,6 +165,7 @@
   {
     "titre": "Terrine de Campagne",
     "type": "entree",
+    "portion": "12 personnes",
     "ingredients": [
       { "quantité": 500, "unité": "g", "ingrédient": "foie de porc" },
       { "quantité": 500, "unité": "g", "ingrédient": "échine de porc" },
@@ -184,6 +191,7 @@
   {
     "titre": "Tot-Fait",
     "type": "dessert",
+    "portion": "4 personnes",
     "ingredients": [
       { "quantité": 25, "unité": "cl", "ingrédient": "lait" },
       { "quantité": 3, "unité": "", "ingrédient": "œufs" },
@@ -208,6 +216,7 @@
   {
     "titre": "Mousse de Truite « Pour Marie »",
     "type": "poisson",
+    "portion": "6 personnes",
     "ingredients": [
       { "quantité": 500, "unité": "g", "ingrédient": "chair de truite" },
       { "quantité": 3, "unité": "", "ingrédient": "jaunes d'œufs" },
@@ -238,6 +247,7 @@
   {
     "titre": "Soupe d'Asperges",
     "type": "entree",
+    "portion": "2 - 3 personnes",
     "ingredients": [
       { "quantité": 0.5, "unité": "livre", "ingrédient": "asperges épluchées" },
       { "quantité": 1, "unité": "cube", "ingrédient": "bouillon de volaille" },
@@ -256,6 +266,7 @@
   {
     "titre": "Nougat Glacé",
     "type": "dessert",
+    "portion": "8 personnes",
     "ingredients": [
       { "quantité": 150, "unité": "g", "ingrédient": "mélange de fruits secs" },
       { "quantité": 105, "unité": "g", "ingrédient": "sucre en poudre" },
@@ -279,6 +290,7 @@
   {
     "titre": "Crème Brulée à la Lavande",
     "type": "dessert",
+    "portion": "8 personnes",
     "ingredients": [
       { "quantité": 8, "unité": "têtes", "ingrédient": "lavandes" },
       { "quantité": 200, "unité": "g", "ingrédient": "sucre en poudre" },
@@ -293,11 +305,12 @@
       "Cuire au bain-marie à 130° pendant 40mn.",
       "Saupoudrer de cassonade et caraméliser avant de servir."
     ],
-    "image":"/assets/creme-brule-lavande.webp"
+    "image": "/assets/creme-brule-lavande.webp"
   },
   {
     "titre": "Courgettes aux Lardons",
     "type": "plat",
+    "portion": "4 personnes",
     "ingredients": [
       { "quantité": 3, "unité": "", "ingrédient": "courgettes moyennes" },
       { "quantité": 1, "unité": "", "ingrédient": "oignon" },
@@ -314,10 +327,11 @@
       "Ajouter les lardons et cuire à feu doux 12mn.",
       "Ajouter l'ail haché et rectifier l'assaisonnement."
     ],
-    "image":"/assets/courgette-lardon.webp"
+    "image": "/assets/courgette-lardon.webp"
   },
   {
     "titre": "Verrine de Gambas à la Crème d'Avocat",
+    "portion": "5 personnes",
     "type": "aperitif",
     "ingredients": [
       { "quantité": 10, "unité": "", "ingrédient": "gambas cuites" },
@@ -333,11 +347,12 @@
       "Alterner les couches de gambas et de crème dans les verrines.",
       "Décorer de cerfeuil."
     ],
-    "image":"/assets/verrine-gambas-avocat.webp"
+    "image": "/assets/verrine-gambas-avocat.webp"
   },
   {
     "titre": "Beurre d'Escargot",
     "type": "entree",
+    "portion": "5 douzaines",
     "ingredients": [
       { "quantité": 157, "unité": "g", "ingrédient": "beurre" },
       { "quantité": 25, "unité": "g", "ingrédient": "ail" },
@@ -351,11 +366,12 @@
       "Hacher l'ail, l'échalote et le persil au robot.",
       "Mélanger intimement le beurre avec le hachis et l'assaisonnement."
     ],
-    "image":"/assets/beurre-escargot.webp"
+    "image": "/assets/beurre-escargot.webp"
   },
   {
     "titre": "Clafoutis aux Pêches de Vigne",
     "type": "dessert",
+    "portion": "4 - 6 personnes",
     "ingredients": [
       { "quantité": 6, "unité": "", "ingrédient": "pêches de vigne" },
       { "quantité": 100, "unité": "g", "ingrédient": "crème fraîche épaisse" },
@@ -377,11 +393,12 @@
       "Éplucher les pêches et les disposer dans un plat beurré.",
       "Verser la pâte et cuire 35 à 40mn."
     ],
-    "image":"/assets/clafouti-peche.webp"
+    "image": "/assets/clafouti-peche.webp"
   },
   {
     "titre": "Clafoutis aux Coings",
     "type": "dessert",
+    "portion": "4 - 6 personnes",
     "ingredients": [
       { "quantité": 3, "unité": "", "ingrédient": "coings" },
       { "quantité": 280, "unité": "g", "ingrédient": "sucre (200g + 80g)" },
@@ -403,11 +420,12 @@
       "Disposer les coings dans un plat et recouvrir de pâte.",
       "Cuire à 180°C pendant 30mn."
     ],
-    "image":"/assets/clafouti-coin.webp"
+    "image": "/assets/clafouti-coin.webp"
   },
   {
     "titre": "Gâteau Moelleux au Chocolat",
     "type": "dessert",
+    "portion": "6 personnes",
     "ingredients": [
       { "quantité": 3, "unité": "", "ingrédient": "œufs" },
       { "quantité": 150, "unité": "g", "ingrédient": "sucre" },
@@ -422,11 +440,12 @@
       "Incorporer la farine au fouet.",
       "Cuire au bain-marie à 180°C pendant 30mn."
     ],
-    "image":"/assets/mouelleux-chocolat.webp"
+    "image": "/assets/mouelleux-chocolat.webp"
   },
   {
     "titre": "Mchaouek",
     "type": "mignardise",
+    "portion": "20 unités",
     "ingredients": [
       { "quantité": 25, "unité": "cl", "ingrédient": "sucre" },
       { "quantité": 75, "unité": "cl", "ingrédient": "noix de coco râpée" },
@@ -444,11 +463,12 @@
       "Incorporer les blancs et former des boules.",
       "Cuire à 180° pendant 15mn."
     ],
-    "image":"/assets/mchouek.webp"
+    "image": "/assets/mchouek.webp"
   },
   {
     "titre": "Meringuettes",
     "type": "mignardise",
+    "portion": "20 unités",
     "ingredients": [
       { "quantité": 125, "unité": "g", "ingrédient": "sucre glace" },
       { "quantité": 125, "unité": "g", "ingrédient": "sucre en poudre" },
@@ -459,11 +479,12 @@
       "Ajouter le sucre glace.",
       "Former à la douille et cuire 1h à 100°C."
     ],
-    "image":"/assets/meringuette.webp"
+    "image": "/assets/meringuette.webp"
   },
   {
     "titre": "Minestrone Glacé Concombre Melon",
     "type": "entree",
+    "portion": "4 personnes",
     "ingredients": [
       { "quantité": 0.5, "unité": "", "ingrédient": "concombre bio" },
       { "quantité": 0.5, "unité": "", "ingrédient": "melon" },
@@ -480,11 +501,12 @@
       "Réserver au frais.",
       "Servir décoré de dés de fruits."
     ],
-    "image":"/assets/minestronemelon.webp"
+    "image": "/assets/minestronemelon.webp"
   },
   {
     "titre": "Pintade aux Morilles",
     "type": "plat",
+    "portion": "4 - 6 personnes",
     "ingredients": [
       { "quantité": 1, "unité": "", "ingrédient": "pintade" },
       { "quantité": 3, "unité": "", "ingrédient": "échalotes" },
@@ -498,11 +520,12 @@
       "Dorer la pintade, déglacer au vin jaune et cuire 1h.",
       "Ajouter morilles et crème 10mn avant la fin."
     ],
-    "image":"/assets/pintade.webp"
+    "image": "/assets/pintade.webp"
   },
   {
     "titre": "Quenelles de Veau à la façon de l' Olga",
     "type": "plat",
+    "portion": "4 personnes",
     "ingredients": [
       { "quantité": 250, "unité": "g", "ingrédient": "maigre de veau" },
       { "quantité": 125, "unité": "g", "ingrédient": "gras de veau" },
@@ -514,11 +537,12 @@
       "Former les quenelles et les pocher à l'eau bouillante.",
       "Servir avec une sauce tomate aux olives et champignons."
     ],
-    "image":"/assets/quenelle.webp"
+    "image": "/assets/quenelle.webp"
   },
   {
     "titre": "Beurre Citronné",
     "type": "poisson",
+    "portion": "2 personnes",
     "ingredients": [
       { "quantité": 50, "unité": "g", "ingrédient": "beurre" },
       { "quantité": 1, "unité": "", "ingrédient": "jus de citron" }
@@ -527,11 +551,12 @@
       "Clarifier le beurre à feu doux.",
       "Fouetter avec le citron et saler."
     ],
-    "image":"/assets/beurre-citron.webp"
+    "image": "/assets/beurre-citron.webp"
   },
   {
     "titre": "Soupe Tiède d'Oranges Sanguines",
     "type": "dessert",
+    "portion": "4 personnes",
     "ingredients": [
       { "quantité": 100, "unité": "ml", "ingrédient": "sucre" },
       { "quantité": 250, "unité": "ml", "ingrédient": "eau" },
@@ -547,11 +572,12 @@
       "Peler les oranges à vif et les cuire 20mn au four à 220°.",
       "Arroser du sirop réduit mélangé à l'alcool."
     ],
-    "image":"/assets/soupe-orange.webp"
+    "image": "/assets/soupe-orange.webp"
   },
   {
     "titre": "Foie Gras au Micro-onde",
     "type": "entree",
+    "portion": "6 - 8 personnes",
     "ingredients": [
       { "quantité": 500, "unité": "g", "ingrédient": "foie gras" },
       {
@@ -566,11 +592,12 @@
       "Cuire par tranches de 20s au micro-onde (env. 2mn20).",
       "Presser 24h au frais avant de recouvrir de graisse."
     ],
-    "image":"/assets/foie-gras.webp"
+    "image": "/assets/foie-gras.webp"
   },
   {
     "titre": "Canapé de Boudin Blanc",
     "type": "aperitif",
+    "portion": "6 personnes",
     "ingredients": [
       { "quantité": 4, "unité": "", "ingrédient": "boudins blancs" },
       { "quantité": 6, "unité": "tranches", "ingrédient": "bacon" },
@@ -581,11 +608,12 @@
       "Griller le bacon et le boudin tranché.",
       "Dresser la pomme et le bacon sur le boudin."
     ],
-    "image":"/assets/canape-boudin-pomme.webp"
+    "image": "/assets/canape-boudin-pomme.webp"
   },
   {
     "titre": "Frites au Four",
     "type": "plat",
+    "portion": "5 - 6 personnes",
     "ingredients": [
       { "quantité": 1, "unité": "kg", "ingrédient": "pomme de terre" },
       { "quantité": 1, "unité": "cuillère à soupe", "ingrédient": "huile" },
@@ -596,11 +624,12 @@
       "Mélanger avec l'huile et cuire 40mn à 180°C.",
       "Finir avec l'ail et un filet d'huile d'olive."
     ],
-    "image":"/assets/frite-four.webp"
+    "image": "/assets/frite-four.webp"
   },
   {
     "titre": "Œufs au Vin",
     "type": "plat",
+    "portion": "4 personnes",
     "ingredients": [
       {
         "quantité": 1,
@@ -616,11 +645,12 @@
       "Pocher les œufs dans la sauce filtrée.",
       "Servir sur pain grillé frotté à l'ail."
     ],
-    "image":"/assets/oeuf-vin.webp"
+    "image": "/assets/oeuf-vin.webp"
   },
   {
     "titre": "Petits Croissants au Saumon",
     "type": "aperitif",
+    "portion": "16 unités",
     "ingredients": [
       { "quantité": 1, "unité": "pâte", "ingrédient": "feuilletée" },
       { "quantité": 200, "unité": "g", "ingrédient": "saumon" },
@@ -631,11 +661,12 @@
       "Déposer saumon et crème sur la base.",
       "Rouler en croissant et cuire 25mn à 210°C."
     ],
-    "image":"/assets/croissant-saumon.webp"
+    "image": "/assets/croissant-saumon.webp"
   },
   {
     "titre": "Riz Cantonais",
     "type": "plat",
+    "portion": "4 personnes",
     "ingredients": [
       { "quantité": 300, "unité": "g", "ingrédient": "riz thaï cuit" },
       { "quantité": 2, "unité": "tranches", "ingrédient": "jambon" },
@@ -653,11 +684,12 @@
       "Ajouter le riz, les petits pois, le jambon et les crevettes.",
       "Assaisonner à la sauce soja."
     ],
-    "image":"/assets/riz-cantonais.webp"
+    "image": "/assets/riz-cantonais.webp"
   },
   {
     "titre": "Pavé de Saumon Laqué",
     "type": "poisson",
+    "portion": "4 personnes",
     "ingredients": [
       { "quantité": 4, "unité": "pavés", "ingrédient": "saumon" },
       {
@@ -671,11 +703,12 @@
       "Verser la sauce soja en fin de cuisson.",
       "Laquer les pavés avec la sauce réduite."
     ],
-    "image":"/assets/saumon-laque.webp"
+    "image": "/assets/saumon-laque.webp"
   },
   {
     "titre": "Macaron : Recette de base et garniture ganache chocolat",
     "type": "dessert",
+    "portion": "20 unités",
     "ingredients": [
       { "quantité": 2, "unité": "", "ingrédient": "blancs d'œufs (80 g)" },
       { "quantité": 20, "unité": "g", "ingrédient": "sucre semoule" },
@@ -709,11 +742,12 @@
       "Cuire 11mn à 150°C.",
       "Pour la garniture : amener la crème et le miel à ébullition, verser sur le chocolat et mélanger."
     ],
-    "image":"/assets/macaron.webp"
+    "image": "/assets/macaron.webp"
   },
   {
     "titre": "Avocat Crevettes tomates",
     "type": "entree",
+    "portion": "4 personnes",
     "ingredients": [
       { "quantité": 2, "unité": "", "ingrédient": "avocats bien mûrs" },
       { "quantité": 12, "unité": "", "ingrédient": "crevettes moyennes" },
@@ -731,11 +765,12 @@
       "Mélanger les crevettes, les tomates et l'avocat avec la mayonnaise.",
       "Dresser sur assiette et saupoudrer de paprika."
     ],
-    "image":"/assets/avocat-tomate-crevette.webp"
+    "image": "/assets/avocat-tomate-crevette.webp"
   },
   {
     "titre": "Poêlée de crevettes à l’asiatique",
     "type": "poisson",
+    "portion": "4 personnes",
     "ingredients": [
       {
         "quantité": 20,
@@ -762,11 +797,12 @@
       "Faire revenir les oignons et le poivron émincés 1 min.",
       "Ajouter les pâtes et la marinade, chauffer l'ensemble et servir."
     ],
-    "image":"/assets/crevette-asiatique.webp"
+    "image": "/assets/crevette-asiatique.webp"
   },
   {
     "titre": "Clafoutis aux pommes",
     "type": "dessert",
+    "portion": "4 - 6 personnes",
     "ingredients": [
       { "quantité": 3, "unité": "", "ingrédient": "œufs" },
       { "quantité": 5, "unité": "petites", "ingrédient": "pommes (500 g)" },
@@ -784,11 +820,12 @@
       "Cuire 45 min à 210°C.",
       "Saupoudrer de sucre vanillé à la sortie du four."
     ],
-    "image":"/assets/clafouti-pomme.webp"
+    "image": "/assets/clafouti-pomme.webp"
   },
   {
     "titre": "Jambon à la chablisienne",
     "type": "plat",
+    "portion": "4 personnes",
     "ingredients": [
       {
         "quantité": 4,
@@ -809,11 +846,12 @@
       "Epaissir avec la Maïzena délayée dans un peu de liquide froid.",
       "Réchauffer doucement le jambon dans la sauce."
     ],
-    "image":"/assets/jambon-chablissienne.webp"
+    "image": "/assets/jambon-chablissienne.webp"
   },
   {
     "titre": "Brioche mousseline",
     "type": "dessert",
+    "portion": "4 - 6 personnes",
     "ingredients": [
       { "quantité": 350, "unité": "g", "ingrédient": "farine T55" },
       { "quantité": 50, "unité": "g", "ingrédient": "sucre" },
@@ -833,11 +871,12 @@
       "Laisser lever 2 à 3 heures dans le four éteint.",
       "Cuire environ 30 mn à 175°C (départ four froid)."
     ],
-    "image":"/assets/brioche.webp"
+    "image": "/assets/brioche.webp"
   },
   {
     "titre": "Fantaisies de la Mère Perrin",
     "type": "dessert",
+    "portion": "1 petit saladier",
     "ingredients": [
       { "quantité": 250, "unité": "g", "ingrédient": "farine" },
       { "quantité": 2, "unité": "", "ingrédient": "œufs" },
@@ -860,11 +899,12 @@
       "Laisser reposer une heure à température ambiante.",
       "Etaler finement, détailler à la roulette et frire dans l'huile chaude."
     ],
-    "image":"/assets/fantaisie.webp"
+    "image": "/assets/fantaisie.webp"
   },
   {
     "titre": "Les gougères parfaites",
     "type": "aperitif",
+    "portion": "25 - 30 unités",
     "ingredients": [
       { "quantité": 133, "unité": "g", "ingrédient": "farine" },
       { "quantité": 75, "unité": "g", "ingrédient": "beurre" },
@@ -879,11 +919,12 @@
       "Laisser reposer 30 min.",
       "Former des petits tas et cuire 5 min à 180°C, puis 20 min à 200°C."
     ],
-    "image":"/assets/gougere.webp"
+    "image": "/assets/gougere.webp"
   },
   {
     "titre": "Noix de Pétoncle au safran en amuse bouche",
     "type": "aperitif",
+    "portion": "4 personnes",
     "ingredients": [
       { "quantité": 8, "unité": "", "ingrédient": "noix de Pétoncle" },
       { "quantité": 2, "unité": "pincées", "ingrédient": "safran" },
@@ -904,11 +945,12 @@
       "Ajouter le fumet, le vin et le safran. Réduire presque totalement.",
       "Ajouter la crème, laisser épaissir 1 min, puis réchauffer les noix dans la sauce."
     ],
-    "image":"/assets/petoncle-amuse.webp"
+    "image": "/assets/petoncle-amuse.webp"
   },
   {
     "titre": "Feuilleté de veau",
     "type": "entree",
+    "portion": "6 personnes",
     "ingredients": [
       { "quantité": 1, "unité": "kg", "ingrédient": "veau à rôtir" },
       { "quantité": 500, "unité": "g", "ingrédient": "champignon frais" },
@@ -925,12 +967,13 @@
       "Garnir un moule de pâte, verser la préparation et recouvrir d'un second disque de pâte.",
       "Dorer à l'œuf et cuire 30 min à Th 8 (240°C)."
     ],
-    "image":"/assets/tourte-viande.webp"
+    "image": "/assets/tourte-viande.webp"
   },
 
   {
     "titre": "Saucisson à l'ail (maison)",
     "type": "entree",
+    "portion": "1 unité",
     "ingredients": [
       { "quantité": 1, "unité": "kg", "ingrédient": "épaule de porc" },
       { "quantité": 250, "unité": "g", "ingrédient": "gras de porc" },
@@ -948,11 +991,12 @@
       "Cuire à l'eau frémissante (80°C max) pendant 45 minutes.",
       "Refroidir immédiatement après cuisson."
     ],
-    "image":"/assets/saucisson-ail.webp"
+    "image": "/assets/saucisson-ail.webp"
   },
   {
     "titre": "Magret de canard séché",
     "type": "entree",
+    "portion": "1 petit apéritif",
     "ingredients": [
       {
         "quantité": 1,
@@ -979,12 +1023,13 @@
       "Envelopper dans un torchon propre et sec.",
       "Placer dans le bas du réfrigérateur pendant 3 semaines minimum avant dégustation."
     ],
-    "image":"/assets/magret seche.webp"
+    "image": "/assets/magret seche.webp"
   },
 
   {
     "titre": "Noix de Saint Jacques sur fondue de poireaux",
     "type": "entree",
+    "portion": "4 personnes",
     "ingredients": [
       { "quantité": 12, "unité": "", "ingrédient": "noix de Saint Jacques" },
       { "quantité": 4, "unité": "", "ingrédient": "poireaux" },
@@ -1004,11 +1049,12 @@
       "Saisir les noix de Saint Jacques à l'huile d'olive (1 min 30 par face).",
       "Dresser les noix sur le lit de poireaux et servir immédiatement."
     ],
-    "image":"/assets/noix-poireau.webp"
+    "image": "/assets/noix-poireau.webp"
   },
   {
     "titre": "Shoot de melon",
     "type": "aperitif",
+    "portion": "10 personnes",
     "ingredients": [
       { "quantité": 1, "unité": "", "ingrédient": "beau melon bien mûr" },
       {
@@ -1025,11 +1071,12 @@
       "Ciseler la menthe et l'incorporer.",
       "Placer au congélateur pendant 30 minutes pour servir très frappé dans des verrines."
     ],
-    "image":"/assets/shoot-melon.webp"
+    "image": "/assets/shoot-melon.webp"
   },
   {
     "titre": "Tarte Thon Tomates Moutarde",
     "type": "entree",
+    "portion": "6 personnes",
     "ingredients": [
       { "quantité": 1, "unité": "pâte", "ingrédient": "brisée" },
       {
@@ -1059,6 +1106,6 @@
       "Saupoudrer d'herbes de Provence et recouvrir de fromage râpé.",
       "Enfourner pour 30 à 35 minutes."
     ],
-    "image":"/assets/tarte-thon-tomate.webp"
+    "image": "/assets/tarte-thon-tomate.webp"
   }
 ]

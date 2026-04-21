@@ -11,7 +11,7 @@ export default function affiche_recipe() {
       <div className="text-3xl text-center bg-amber-100 p-5 rounded-xl m-5 ">
         {recette.titre}
       </div>
-
+      <div>Pour : {recette.portion}</div>
       <br />
       {recette.ingredients.map((ing, index) => (
         <div key={index}>
