@@ -13,6 +13,7 @@ export default function ShowNameRecipe({ typeRecipe }) {
     <div className="m-15 min-w-80 grid grid-cols-1 md:grid-cols-3 gap-5  ">
       {recipes
         .filter((item) => item.type == typeRecipe)
+        .sort((a, b) => a.titre.toLowerCase().localeCompare(b.titre.toLowerCase()))
         .map((item, index) => (
           <div
             key={index}
