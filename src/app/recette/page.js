@@ -6,6 +6,7 @@ export default function affiche_recipe() {
   const recipein = useSearchParams().get('nameRecipein');
 
   const recette = recipes.find((obj) => String(obj.titre) === String(recipein));
+  if (!recette) return <p>Recette non trouvée</p>;
   return (
     <div className="flex flex-col items-center  m-10">
       <div className="text-3xl text-center bg-amber-100 p-5 rounded-xl m-5 ">
