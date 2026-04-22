@@ -1,4 +1,4 @@
-function convertType(recipeType) {
+export default function convertType(recipeType) {
     switch (recipeType) {
         case "aperitif": return "Apréritifs";
         case "entree": return "Entrées";
@@ -10,4 +10,3 @@ function convertType(recipeType) {
     }
 }
 
-export default convertType;
