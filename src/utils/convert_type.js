@@ -1,6 +1,6 @@
 export default function convertType(recipeType) {
     switch (recipeType) {
-        case "aperitif": return "Apréritifs";
+        case "aperitif": return "Apéritifs";
         case "entree": return "Entrées";
         case "poisson": return "Poissons";
         case "plat": return "Plats";
